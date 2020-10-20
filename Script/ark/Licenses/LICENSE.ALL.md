@@ -7,3 +7,5 @@ The accompanying documentation provides the same freedoms that the software does
 >If additional permissions apply only to specific programs, portions of program code, or examples of program code, that part may be used separately under those permissions, but the entire product remains governed by the Licenses above regard to the additional permissions.
 
 The [Contributor Covenant](License/../CODE_OF_CONDUCT.md) is open source and free culture released under the terms of the [Creative Commons Attribution 4.0 International](LICENSE.CC-BY-4.0.md) licence.
+
+[KSLib](https://github.com/KSP-KOS/KSLib) is distributed under the terms of the [MIT license](LICENSE.MIT.md), Copyright © the KSLib team.

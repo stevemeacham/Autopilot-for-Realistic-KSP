@@ -1,0 +1,13 @@
+{
+	"archive": "Script",
+	"bodies": [
+		"earth",
+		"moon",
+		"sun"
+	],
+	"linting": {
+		"symbol-unused": "off",
+		"symbol-unused-locally": "off",
+		"file-loading": "off"
+	}
+}
